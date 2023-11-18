@@ -22,3 +22,4 @@ q2 = pd.DataFrame(q)
 # DataFrame: 筛选，~ 取反
 q1 = q2[(q2['a'] == 1)]
 print(q1)
+
